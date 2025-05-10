@@ -1,0 +1,3 @@
+"code-runner.executorMap":{
+"typescript": "tsx watch src/index.ts
+"}
